@@ -13,6 +13,6 @@ This was my final capstone project for the Coursera Learn SQL Basics for Data Sc
 
 * Milestone 4: Presenting Your Findings (Storytelling)
 
-The numbered documents in this repository correspond to these milestones. I analyzed the data in a Jupyter notebook using Python, pandas, and Seaborn. The PowerPoint presentation for Milestone 4 summarizes the survey findings and includes data visualizations.
+The numbered documents in this repository correspond to these milestones. I analyzed the data in a Jupyter notebook using Python, pandas, matplotlib, and Seaborn. The PowerPoint presentation for Milestone 4 summarizes the survey findings and includes data visualizations.
 
 To view the complete notebook with all data visualizations, please view the notebook on Kaggle: https://www.kaggle.com/code/denisefoster/sql-for-data-science-capstone-project/notebook
